@@ -1,4 +1,3 @@
-Here is your `README.md` file content:  
 
 ```plaintext
 # Multi-Tenant School Profile Application
@@ -7,12 +6,11 @@ Here is your `README.md` file content:
 1. Subdomain-based Tenant Routing: Each school has its own subdomain.
 2. Authentication: Secure login and session management.
 3. Data Isolation: Tenant-based data separation in MongoDB.
-4. Admin Dashboard: Manage school profiles and users.
-5. User Registration & Login: Basic authentication using JWT.
-6. Admin Login and Registration: Allows admins to log in and manage schools.
-7. Admin Access Control: Only authenticated admins can update school profiles.
-8. Protected API Endpoints: Uses JWT authentication to secure school profile updates.
-9. Responsive UI: Built with modern UI principles.
+4. Admin Dashboard: Manage school profiles.
+5. Admin Login and Registration: Allows admins to log in and manage schools.
+6. Admin Access Control: Only authenticated admins can update school profiles Data.
+7. Protected API Endpoints: Uses JWT authentication to secure school profile updates.
+8. Responsive UI: Built with modern UI principles.
 
 ## Setup and Running Instructions
 1. Install Node.js (v18+ recommended), MongoDB (local or Atlas), and Git.
@@ -47,17 +45,14 @@ Here is your `README.md` file content:
    http://localhost:3000
    ```
 
-## Assumptions and Limitations
+## Assumptions
 
 ### Assumptions:
 1. Each school (tenant) has its own subdomain.
 2. Authentication is required to access school profiles.
 3. Admins must register and log in to manage school data.
 
-### Limitations:
-1. No multi-role system implemented (e.g., admin, teacher, student roles).
-2. Limited UI customization for each tenant.
-3. The database structure may need optimization for large-scale deployments.
-```
+If you have any queries, feel free to contact via email: pranav.pokharkar.9@gmail.com
 
-This file provides clear instructions on setup, features, and limitations. Let me know if you need any changes. 🚀
+
+```
