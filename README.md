@@ -52,7 +52,6 @@
 2. Authentication is required to access school profiles.
 3. Admins must register and log in to manage school data.
 
-If you have any queries, feel free to contact via email: pranav.pokharkar.9@gmail.com
-
-
 ```
+
+If you have any queries, feel free to contact via email: pranav.pokharkar.9@gmail.com
