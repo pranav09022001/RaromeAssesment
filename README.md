@@ -19,7 +19,7 @@ Here is your `README.md` file content:
 2. Clone the repository:
    ```
    git clone https://github.com/pranav09022001/RaromeAssesment.git
-   
+
    cd your-repo-name
    ```
 3. Initialize Git if not already initialized:
@@ -30,7 +30,7 @@ Here is your `README.md` file content:
    ```
    npm install
    ```
-5. Create a `.env.local` file in the root directory and add the following environment variables:
+5. Create a `.env` file in the root directory and add the following environment variables:
    ```
    MONGODB_URI=your_mongodb_connection_string
    
