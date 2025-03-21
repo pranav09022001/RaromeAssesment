@@ -45,9 +45,8 @@
    http://localhost:3000
    ```
 
-## Assumptions
+## Assumptions:
 
-### Assumptions:
 1. Each school (tenant) has its own subdomain.
 2. Authentication is required to access school profiles.
 3. Admins must register and log in to manage school data.
