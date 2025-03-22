@@ -28,7 +28,7 @@
    ```
    npm install
    ```
-5. Create a `.env` file in the root directory and add the following environment variables:
+5. Change the .env file in the root directory and update the following environment variables:
    ```
    MONGODB_URI=your_mongodb_connection_string
    
@@ -52,7 +52,5 @@
 2. Authentication is required to access school profiles.
 3. Admins must register and log in to manage school data.
 
-If you have any queries, feel free to contact via email: pranav.pokharkar.9@gmail.com
-
-
 ```
+If you have any queries, feel free to contact via email: pranav.pokharkar.9@gmail.com
