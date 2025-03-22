@@ -29,6 +29,11 @@
    npm install
    ```
 5. Create a `.env` file in the root directory and add the following environment variables:
+
+This is my existing .env file code:
+
+MONGODB_URI="mongodb+srv://Pranav09:L2NEVRwQy5LOgoa9@multitetant.knmea.mongodb.net/?retryWrites=true&w=majority&appName=multitetant"
+JWT_SECRET="af15a2189f52124b2a4a7b1f8511697bd2eba16d321db07d32c8c02faabe9f7d"
    ```
    MONGODB_URI=your_mongodb_connection_string
    
